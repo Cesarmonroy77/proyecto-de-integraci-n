@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mapa</title>
+  <!--Estilo para usar leaflet-->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
+  <!--Script de leaflet-->
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+</head>
+<body>
+  <p><%= modulo[0].nombre%></p>
+  <div id="map" style="width:100%; height:100%; top:0; left:0; position:absolute;"></div>
+  <script src="/js/leaflet.js"></script>
+  <script type="text/javascript">
+    <% for(var i=0; i<modulo.length; i++) {%>
+      L.marker([<%=modulo[i][0].latitud%>,<%=modulo[i][0].longitud%>]).addTo(map) // Marcador
+      <%if(parseInt(modulo[i][0].promedio) == 1){%>
+        .bindPopup('<h1><%=modulo[i][0].nombre%></h1><br><h3>Opiniones mayormente positivas<h3>') // popup con texto
+      <%}else if(parseInt(modulo[i][0].promedio) == 2){%>
+        .bindPopup('<h1><%=modulo[i][0].nombre%></h1><br><h3>Opiniones mayormente neutras<h3>') // popup con texto
+      <%} else if(parseInt(modulo[i][0].promedio) == 3){%>
+        .bindPopup('<h1><%=modulo[i][0].nombre%></h1><br><h3>Opiniones mayormente negativas<h3>') // popup con texto
+      <%} else {%>
+        .bindPopup('<h1><%=modulo[i][0].nombre%></h1><br><h3>Sin opiniones<h3>') // popup con texto
+      <%}%>
+      L.circle([<%=modulo[i][0].latitud%>,<%=modulo[i][0].longitud%>],{
+        color: 'black',
+        fillColor: 'white',
+        fillOpacity: 0.5,
+        radius: 200
+      }).addTo(map) // Marcador
+    <%}%>
+  </script>
+</body>
+</html>

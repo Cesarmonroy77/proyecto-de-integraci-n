@@ -1,0 +1,238 @@
+fase,fecha_inicio,fecha_fin,id_uv,alcaldia,nombre_uv,direccion,colonia,latitud,longitud,horario_semana,vacuna
+2,2021-02-15,2021-02-19,1-1,Iztacalco,Escuela Superior de Educación Física,"Atletas S/N, Puerta 4, Iztacalco, 08010 Iztacalco, CDMX",GRANJAS MÉXICO,19.40792513,-99.10046371,09:00 - 16:00,SPUTNIK V
+2,2021-02-15,2021-02-19,1-2,Iztacalco,Palacio de los Deportes,"Av. Río Churubusco & Eje 3 Sur (Añil), Granjas México, Ciudad de México, CDMX",GRANJAS MÉXICO,19.40289458,-99.09764077,09:00 - 16:00,SPUTNIK V
+2,2021-02-15,2021-02-19,1-3,Tláhuac,Bosque de Tláhuac,"Av. La Turba 745, Colonia Villa Centroaméricana, Tláhuac, 13278 Ciudad de México, CDMX",VILLA CENTROAMÉRICANA,19.28774575,-99.05204404,09:00 - 16:00,SPUTNIK V
+2,2021-02-15,2021-02-19,1-4,Tláhuac,Nuevo Hospital General del ISSSTE,"Heberto Castillo 216, Miguel Hidalgo, Tláhuac, 13200 Ciudad de México, CDMX",MIGUEL HIDALGO,19.27989101,-99.05044155,09:00 - 16:00,SPUTNIK V
+2,2021-02-15,2021-02-19,1-5,Xochimilco,Escuela Nacional Preparatoria No. 1 Gabino Barreda UNAM,"Av. de la Noria y, Prolongación Ignacio Aldama s/n, Santa María Tepepan, Xochimilco, 16020 Ciudad de México, CDMX",TEPEPAN,19.27212039,-99.1213183,09:00 - 16:00,SPUTNIK V
+2,2021-02-15,2021-02-19,1-6,Xochimilco,Centro Deportivo Xochimilco,"Francisco Goitia S/N, Xochimilco, 16095 Ciudad de México, CDMX",SANTIAGO TEPALCATLALPAN,19.25450336,-99.10843636,09:00 - 16:00,SPUTNIK V
+1,2021-02-24,2021-03-05,2-1,Cuajimalpa de Morelos,SITIO DE CUAUTLA,MARGARITAS NO 103 Y ANTONIO  NOEMI,LOMAS DE MEMETLA,19.3551,-99.2871,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-2,Cuajimalpa de Morelos,XOCHIQUETZAL,AV SAN JOSE DE LOS CEDROS NO 326,SAN JOSE DE LOS CEDROS,19.3699,-99.291,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-3,Cuajimalpa de Morelos,CALMECAC,GRANADOS ESQ CDA DE EUCALIPTO,GRANJAS DE NAVIDAD,19.3701,-99.2846,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-4,Cuajimalpa de Morelos,INVESTIGACION EDUCATIVA,HUIZACHITO NO 91,HUIZACHITO LA PALMA,19.3705,-99.2803,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-5,Cuajimalpa de Morelos,CARLOS MARIA BUSTAMANTE,CDA DE ENCINO NO 39,GRANJAS DE NAVIDAD,19.3726,-99.2883,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-6,Cuajimalpa de Morelos,DR CONRADO MENENDEZ MENA,LAS GRANJAS 10 B CARR MEX-TOL 15,LOMAS DE PALO ALTO,19.3825,-99.2553,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-7,Cuajimalpa de Morelos,ESCUELA PRIMARIA MANUAL ACUÑA,EUCAPILTO #77 ESQUINA HECTOR VICTORIA,SAN JOSÉ DE LOS CEDROS,19.37025179,-99.28532605,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-8,Cuajimalpa de Morelos,JOSE RAMÓN MANTEROLA,AV. JUAREZ #8,CUAJIMALPA,19.35666692,-99.29822089,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-9,Cuajimalpa de Morelos,BENITO JUAREZ,PROLG DE OCAMPO NO 98,SAN LORENZO ACOPILCO,19.3285,-99.3306,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-10,Cuajimalpa de Morelos,ESCUELA SECUNDARIA JOSÉ ANTONIO CARRILLO FLORES N°289,"CAMINO AL TECNOLÓGICO S/N, PUEBLO SAN PABLO CHIMALPA",CHIMALPA,19.34821817,-99.31733734,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-11,Cuajimalpa de Morelos,JOSE LUIS VIEYRA GONZALEZ,ZARCO NO 1,CUAJIMALPA,19.3533,-99.296,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-12,Cuajimalpa de Morelos,KALPILLI,LIC L CASTILLO LEDON NO 121,CUAJIMALPA,19.3604,-99.297,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-13,Cuajimalpa de Morelos,MAESTRO JUSTO SIERRA,KM 29 1/2 CARRETERA MEX TOLUCA,LA PILA,19.308,-99.3351,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-14,Cuajimalpa de Morelos,MAESTROS DE MEXICO,MINA NO 12,SAN MATEO TLALTENANGO,19.3425,-99.2824,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-15,Cuajimalpa de Morelos,VICENTE GUERRERO,MINA NO 5,SAN MATEO TLALTENANGO,19.3429,-99.2804,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-16,Cuajimalpa de Morelos,NIQOS HEROES,CALLE SANTA RITA NO 230,LOMAS DEL PADRE,19.3447,-99.3125,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-17,Cuajimalpa de Morelos,ANTONIO CASTRO LEAL,AV 16 DE SEPTIEMBRE NO 51,CONTADERO,19.3473,-99.2996,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-18,Cuajimalpa de Morelos,ESCUELA SECUNDARIA TECNICA 48,HERMANDAD Y EBANO,GRANJAS DE NAVIDAD,19.37564499,-99.28731364,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-19,Cuajimalpa de Morelos,Acopilco,"Camino  A  Chimalpa  S/N,  Esq  Prolongación  Leandro Valle       Col.       Lorenzo   Acopilco,   C.P.   05410,   Del. Cuajimalpa",LORENZO ACOPILCO,19.333439,-99.326466,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-20,Cuajimalpa de Morelos,Cuajimalpa,"Cerrada Juárez 11A, Cuajimalpa, Cuajimalpa de Morelos, 05000 Ciudad de México, CDMX",CUAJIMALPA,19.356861,-99.297495,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-21,Cuajimalpa de Morelos,UMF-UMAA 42 Cuajimalpa,"Calle Jesús del Monte esquina Monte Alto  No. S/N, Colonia Cuajimalpa C.P 05000,  Cuajimalpa, Delegación de  Cuajimalpa, Ciudad de México",CUAJIMALPA,19.3645,-99.2933,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-22,Cuajimalpa de Morelos,IEMS Plantel Josefa Ortiz de Domínguez,CARRETERA MÉXICO-TOLUCA KM 19.8 COLONIA EL MOLINITO CP 05330,EL MOLINITO,19.361908,-99.285902,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-23,Cuajimalpa de Morelos,La Navidad,Calle  25  De  Diciembre  Entre  Baltazar  Y  Estrella  De Belén S/N Colonia La Navidad C.P. 05210,LA NAVIDAD,19.3751,-99.2834,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-24,La Magdalena Contreras,RUBEN DARIO,CALLE CRUZ VERDE NO 86,LOMAS QUEBRADAS,19.3164,-99.242,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-25,La Magdalena Contreras,JOSÉ MARÍA VELASCO,AVENIDA SAN JERÓNIMO S/N,LOMAS QUEBRADAS,19.317,-99.2395,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-26,La Magdalena Contreras,JOSE GUADALUPE POSADA,LUIS CABRERA MZA. 33 LOTE 18,LA MALINCHE,19.3203,-99.2404,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-27,La Magdalena Contreras,PROFRA MA ADELINA FLORES MORALES,MEMBRILLO S/N,CERRO DEL JUDIO,19.3251,-99.2496,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-28,La Magdalena Contreras,LIDICE,AV MORELOS NO 36,SAN JERONIMO LIDICE,19.326,-99.2247,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-29,La Magdalena Contreras,JOSEFA ORTIZ DE DOMINGUEZ,AV CONTRERAS Y TARASQUILLO PTE,PUENTE SIERRA,19.3292,-99.2124,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-30,La Magdalena Contreras,PROCERES DE LA REVOLUCION,ANILLO PERIFERICO NO 2811,UNIDAD INDEPENDENCIA,19.3345,-99.2098,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-31,La Magdalena Contreras,DR EDUARDO LICEAGA,ANDADOR PRINCIPAL Y ANDADOR 14,LA MAGDALENA CONTRERAS,19.3021,-99.2704,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-32,La Magdalena Contreras,ARQUIMEDES CABALLERO CABALLERO,ESPERANZA S/N,HUAYATLA,19.3049,-99.2664,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-33,La Magdalena Contreras,PROFRA LEONOR LEAQOS NAVARRO,CALLE CARBONERO S/N Y PARCELA,LOMAS DE SAN BERNABE,19.3093,-99.2651,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-34,La Magdalena Contreras,ALFONSO REYES,OBREGON Y ALUMNOS,SAN BERNABE OCOTEPEC,19.3134,-99.2567,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-35,La Magdalena Contreras,ENRIQUE RODRIGUEZ CANO,INDEPENDENCIA NO 20,SAN NICOLAS TOTOLAPAN,19.2979,-99.2451,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-36,La Magdalena Contreras,FRANCISCO NICODEMO,MANZANITOS NO 14,BARRANCA SECA,19.3052,-99.2381,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-37,La Magdalena Contreras,MARTÍN LUIS GUZMÁN,COLORINES 30,LA CARBONERA,19.3009,-99.2573,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-38,La Magdalena Contreras,ALFREDO E URUCHURTU,CALLE DEL ROSAL NO 58,PUEBLO NUEVO,19.3064,-99.2477,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-39,La Magdalena Contreras,JUVENTINO ROSAS,AV ALVARO OBREGON NO 74,LA GUADALUPE,19.3067,-99.2335,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-40,La Magdalena Contreras,CORONEL NICOLAS ROMERO,5 DE MAYO NO 126,POTRERILLO,19.3067,-99.2499,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-41,La Magdalena Contreras,LUIS DONALDO COLOSIO MURRIETA,CDA DE NOGAL Y FCC DE CUERNAVACA,BARRANCA SECA,19.3073,-99.2363,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-42,La Magdalena Contreras,CARLOS DE SIGUENZA Y GONGORA,AV SAN JERONIMO NO 29,EL TORO,19.3107,-99.2452,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-43,La Magdalena Contreras,PROFR RAFAEL HERNANDEZ LOPEZ,EMILIANO ZAPATA NO 172,VISTA HERMOSA,19.3122,-99.2546,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-44,La Magdalena Contreras,ESCUELA PRIMARIA HEROES DE PADIERNA,AV OAXACA NO 18,HEROES DE PADIERNA,19.3153,-99.2264,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-45,La Magdalena Contreras,ITZJAK RABIN,OCOTLAN Y PALACIO CERRO DEL JUDI,EL TORO,19.3153,-99.249,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-46,La Magdalena Contreras,DR NABOR CARRILLO FLORES,AV SAN BERNABE NO 8255,LAS PALMAS,19.317,-99.2492,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-47,La Magdalena Contreras,MAESTRO RAFAEL RAMIREZ,EMILIANO ZAPATA NO 179,SAN JERONIMO ACULCO ZONA URBANA EJI,19.3179,-99.2291,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-48,La Magdalena Contreras,REPUBLICA DEL PERU,EMILIANO ZAPATA Y JALAPA S/N,SAN JERONIMO LIDICE,19.3207,-99.2238,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-49,La Magdalena Contreras,ESCUELA PRIMARIA XICOTENCATL,EMILIANO ZAPATA  # 4 ENTRE CERRADA ZAPATA Y PRIMAVERA,SAN BERNABE OCOTEPEC,19.3132,-99.256,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-50,La Magdalena Contreras,C.S.T-I SAN NICOLÁS TOTOLAPAN,"Benito Juárez s/n, esq. Progreso, col. San Nicolás Totolapan, 10900",SAN NICOLAS TOTOLAPAN,19.2983,-99.2434,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-51,La Magdalena Contreras,ESCUELA PRIMARIA PROFR. SIMITRIO RAMIREZ HERNANDEZ,AVENIDA OJO DE AGUA 38 COLONIA SAN BERNABE OCOTEPEC CP 10300,SAN BERNABE OCOTEPEC,19.3118,-99.2605,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-52,La Magdalena Contreras,UMF 140 La Teja,"Calle La Teja  No. 50, Colonia Pueblo Nuevo Bajo C.P 10640, Magdalena Contreras, Delegación de Magdalena Contreras, Ciudad de México",PUEBLO NUEVO BAJO,19.3042,-99.2485,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-53,La Magdalena Contreras,ESCUELA PRIMARIA ALFREDO E. URUCHURTU,CALLE JOSÉ MORENO SALIDO 47,BARRANCA SECA,19.3053,-99.241,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-54,La Magdalena Contreras,ESCUELA PRIMARIA MAESTROS MEXICANOS,TOLUCA 2 COLONIA SANTA TERESA MAGDALENA CONTRERAS 10710,SANTA TERESA,19.3098,-99.2304,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-55,La Magdalena Contreras,ESCUELA PRIMARIA CUAUHTEMOC,AVENIDA SAN BERNABÉ 95 COLONIA CUAUHTEMOC CP 10020,CUAUHTEMOC,19.3199,-99.2445,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-56,La Magdalena Contreras,UMF 22 Independecia,"Calle Río Chico esquina San Ramón  No. S/N, Colonia San Jerónimo Lidice C.P 10100, Magdalena Contreras, Delegación de Magdalena Contreras, Ciudad de México",SAN JERÓNIMO LÍDICE,19.331,-99.2179,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-57,Milpa Alta,ESCUELA PRIMARIA AGUSTIN LEGORRETA,ZARAGOZA ESQUINA FRANCISCO DEL OLMO,SAN ANTONIO TECOMITL,19.2187876,-98.99539754,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-58,Milpa Alta,SIERRA LEONA,AVENIDA NUEVO MÉXICO 2,SAN JERONIMO MIACATLAN,19.193,-99.0073,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-59,Milpa Alta,PRIMARIA PROGRESO CAMPESINO,NIÑOS HEROES ESQUINA GUERRERO,SAN LORENZO TLACOYUCAN,19.17517536,-99.03423322,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-60,Milpa Alta,CULTURA AZTECA,AV YUCATAN SUR S/N,LA CONCEPCION BARRIO,19.1879,-99.0216,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-61,Milpa Alta,JARDIN DE NIÑOS CALNAHUATL,AV. COLIMA Y TLAXCALA,BARRIO SAN MATEO VILLA MILPA ALTA,19.19043944,-99.02852908,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-62,Milpa Alta,ESCUELA SECUNDARIA TECNICA 18,PROL GUERRERO S/N,SAN PABLO OZTOTEPEC,19.1832,-99.0712,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-63,Milpa Alta,ESCUELA PRIMARIA PINTOR DIEGO RIVERA,MORELOS ESQUINA NIÑOS HEROES,SAN SALVADOR CUAUHTENCO,19.19250365,-99.08954299,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-64,Milpa Alta,ESCUELA PRIMARIA BENITO JUAREZ,5 DE MAYO ESQUINA AV. JUAREZ,SAN BARTOLOME XICOMULCO,19.20587658,-99.06915025,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-65,Milpa Alta,San Salvador Cuauhtenco,Calle    Chapultepec    S/N    Pueblo    San    Salvador Cuauhtenco C.P. 12300,SAN SALVADOR CUAUHTENCO,19.191734,-99.091828,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-66,Milpa Alta,San Pablo Oztotepec,Calle  Matamoros  y  Rojo  Gómez  S/N  Pueblo  San Pablo Oztotepec C.P. 12400,SAN PABLO OZTOTEPEC,19.1874,-99.0731,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-67,Milpa Alta,Dr. Luis  Erosa León,Avenida  Hidalgo  S/N  Barrio  San  Pedro  Actopán C.P. 12200,SAN PEDRO ACTOPAN,19.2031,-99.0466,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-68,Milpa Alta,Escuela Secundaria N°37 EMILIANO ZAPATA,"AVENIDA MEXICO SUR S/N BARRIO LA LUZ, VILLA MILPA ALTA C.P. 12000",VILLA MILPA ALTA,19.188537,-99.024266,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-69,Milpa Alta,Dr. Gastón Melo,Avenida Dr. Gastón Melo S/N Pueblo San Antonio Tecomitl C.P. 12100,SAN ANTONIO TECOMITL,19.22038,-98.99553,09:00 - 20:00,Oxford AstraZeneca
+1,2021-02-24,2021-03-05,2-70,Milpa Alta,Santa Ana Tlacotenco,Avenida   José   Ma.   Morelos   y   Pavón      esquina Ignacio     Zaragoza     S/N     Pueblo     Santa     Ana Tlacotenco C.P. 12900,SANTA ANA TLACOTENCO,19.17293,-98.99455,09:00 - 20:00,Oxford AstraZeneca
+3,2021-03-08,2021-03-14,77,Miguel Hidalgo,Benemérita Escuela Nacional de Maestros,"Calz México-Tacuba 75, Un Hogar Para Nosotros, Miguel Hidalgo, 11330 Ciudad de México, CDMX",Un Hogar Para Nosotros,19.4468619868141,-99.1683351833857,09:00 - 16:00,Pfizer-BioNTech
+3,2021-03-08,2021-03-14,78,Miguel Hidalgo,Campo Marte,"Campo Marte S/N, Polanco, Chapultepec, 11560 Ciudad de México",Chapultepec,19.4247637086059,-99.1972820177831,09:00 - 16:00,Pfizer-BioNTech
+3,2021-03-08,2021-03-14,79,Azcapotzalco,Arena Ciudad de México,"Av. de las Granjas 800, Santa Barbara, Azcapotzalco, 02230 Ciudad de México, CDMX",Santa Barbara,19.4978651129392,-99.1751012455615,09:00 - 16:00,Pfizer-BioNTech
+3,2021-03-08,2021-03-14,80,Azcapotzalco,UAM Azcapotzalco,"Av San Pablo Xalpa 180, Reynosa Tamaulipas, Azcapotzalco, 02200 Ciudad de México, CDMX",Reynosa Tamaulipas,19.5040001259723,-99.1869685452568,09:00 - 16:00,Pfizer-BioNTech
+4,2021-03-17,2021-03-23,171,Venustiano Carranza,Antiguas instalaciones de la Primera Región Militar (colonia Aviación Civil),"Alberto Santos Dumont, Venustiano Carranza, 15620 Mexico City, CDMX",20 de noviembre,19.4191443530711,-99.0762714602185,09:00 - 16:00,CoronaVac (SINOVAC)
+4,2021-03-17,2021-03-23,172,Venustiano Carranza,Internado No. 17 de ña Secretaría de Educación Pública Francisco I. Madero,"Av. Circunvalación 87, Morelos, Venustiano Carranza, 15270 Ciudad de México, CDMX",Morelos,19.4435484358356,-99.1160660602181,09:00 - 16:00,CoronaVac (SINOVAC)
+5,2021-03-24,2021-03-30,118,Coyoacán,Centro de Estudios Superiores en Ciencias de la Salud (CENCIS-Marina),"Calzada de la virgen No 1800, col. San Pablo Tepetlapa CP 04800",San Pablo Tepetlapa,19.3198028600395,-99.1171925663255,09:00 - 16:00,Pfizer-Biontech
+5,2021-03-24,2021-03-30,119,Coyoacán,Centro de Exposiciones de Ciudad Universitaria,"Av. del Imán 10, C.U., Coyoacán, 04510 Ciudad de México, CDMX, México",C.U.,19.31002726,-99.1769417,09:00 - 16:00,Pfizer-Biontech
+5,2021-03-24,2021-03-30,120,Coyoacán,Universidad Autónoma Metropolitana (UAM) Xochimilco,"Calz. de las Bombas, Coapa, Culhuacan CTM IX B, Coyoacán, 04909 Ciudad de México, CDMX, México",Culhuacan CTM IX B,19.30435633,-99.10160295,09:00 - 16:00,Pfizer-Biontech
+5,2021-03-24,2021-03-30,121,Tlalpan,"Escuela Nacional Preparatoria N° 5 ""José Vasconcelos"" UNAM","Calz. del Hueso sn, Coapa, Tlalpan, 14300 Ciudad de México, CDMX, México",Coapa,19.30794538,-99.13416566,09:00 - 16:00,CoronaVac (SINOVAC)
+5,2021-03-24,2021-03-30,122,Tlalpan,Plantel Otilio Montaño - Tlalpan 2 (Topilejo) del Instituto de Educación Media Superior de la Ciudad de México,"Av. Cruz Blanca, San Miguel Topilejo, Tlalpan, 14500 San Miguel Topilejo, CDMX.",San Miguel Topilejo,19.20238464,-99.14930168,09:00 - 16:00,CoronaVac (SINOVAC)
+5,2021-03-24,2021-03-30,123,Tlalpan,Six Flags México,"Carr. Picacho-Ajusco Km 1.5, Jardines del Ajusco, Tlalpan, 14200 Ciudad de México, CDMX, México",Jardines del Ajusco,19.2958487,-99.21062957,09:00 - 16:00,CoronaVac (SINOVAC)
+6,2021-03-30,2021-04-03,124,Cuauhtémoc,Universidad La Salle,General Benjamin Hill # 43 Colonia  Hipódromo Condesa C.P. 06140 Cuauhtémoc Ciudad de México,Condesa,19.40888893,-99.18086442,09:00 - 16:00,AstraZeneca
+6,2021-03-30,2021-04-03,125,Cuauhtémoc,Biblioteca Vasconcelos,"Eje 1 Nte. S/N, Buenavista, Cuauhtémoc, 06350 Ciudad de México, CDMX",Buenavista,19.44750555,-99.15065602,09:00 - 16:00,AstraZeneca
+6,2021-03-30,2021-04-03,126,Cuauhtémoc,Escuela Primaria Benito Juárez,"Jalapa 272, Roma Sur, Cuauhtémoc, 06760 Ciudad de México, CDMX",Roma Sur,19.40972598,-99.15915906,09:00 - 16:00,AstraZeneca
+6,2021-03-30,2021-04-03,127,Alvaro Obregón,Estadio Olímpico Universitario,"Av. de los Insurgentes Sur S/N, C.U., Coyoacán, 04510 Ciudad de México, CDMX",C.U.,19.33254018,-99.19119064,09:00 - 16:00,AstraZeneca
+6,2021-03-30,2021-04-03,128,Alvaro Obregón,Deportivo Plateros,"Francisco de P.Miranda s/n, Lomas de Plateros, Álvaro Obregón, 01600 Ciudad de México, CDMX",Lomas de Plateros,19.36881565,-99.19495267,09:00 - 16:00,AstraZeneca
+6,2021-03-30,2021-04-03,129,Alvaro Obregón,Expo Santa Fe México,"Av Sta Fe 270, Santa Fe, Zedec Sta Fé, Álvaro Obregón, 01210 Ciudad de México, CDMX",Santa Fé,19.36336805,-99.26237597,09:00 - 16:00,AstraZeneca
+6,2021-03-30,2021-04-03,130,Alvaro Obregón,Universidad de la Policía de la CDMX (Acceso 1),"Desierto de los Leones 5715, Acceso 1, Colonia Olivar de los Padres. Alcaldía Álvaro Obregón",Olivar de los Padres,19.33704746,-99.24956968,09:00 - 16:00,AstraZeneca
+6,2021-03-30,2021-04-03,131,Benito Juarez,Pepsi Center / World Trade Center,"Dakota s/n, Nápoles, Benito Juárez, 03810 Ciudad de México, CDMX",Napoles,19.39504623,-99.17429988,09:00 - 16:00,AstraZeneca
+6,2021-03-30,2021-04-03,132,Benito Juarez,Alberca Olímpica Francisco Márquez,"Av. Río Churubusco, Gral Anaya, Benito Juárez, 03340 Ciudad de México, CDMX",General Anaya,19.35885138,-99.15370345,09:00 - 16:00,AstraZeneca
+6,2021-03-30,2021-04-03,133,Benito Juarez,Centro Universitario México,"Concepción Beistegui 1106, Narvarte Poniente, Benito Juárez, 03100 Ciudad de México, CDMX",Narvarte Poniente,19.38972135,-99.16078623,09:00 - 16:00,AstraZeneca
+6,2021-04-02,2021-04-06,134,GAM,Deportivo Hermanos Galeana,Av. Loreto Fabela s/n. Col. 7a. Sección de San Juan de Aragón.,San Juan de Aragón,19.4734245,-99.07499645,09:00 - 16:00,Sputnik-V
+6,2021-04-02,2021-04-06,135,GAM,Ciudad Deportiva Carmen Serdán,"Loma la Palma, Gustavo A. Madero, 07160 Ciudad de México, CDMX",Loma la Palma,19.55311662,-99.14603505,09:00 - 16:00,Sputnik-V
+6,2021-04-02,2021-04-06,136,GAM,"Escuela Nacional Preparatoria N° 9 ""Pedro de Alba"" UNAM","Av. Insurgentes Nte. 1698, Lindavista, Gustavo A. Madero, 07300 Ciudad de México, CDMX",Lindavista,19.4838658,-99.12771386,09:00 - 16:00,Sputnik-V
+6,2021-04-02,2021-04-06,137,GAM,ENCB - Escuela Nacional de Ciencias Biológicas Unidad Zacatenco - IPN,"Av. Wilfrido Massieu 399, Col. Nueva Industrial Vallejo C.P. 07738 Alcaldía Gustavo A. Madero CDMX.México.",Unidad Profesional Lázaro Cárdenas,19.49880124,-99.14571374,09:00 - 16:00,Sputnik-V
+6,2021-04-02,2021-04-06,138,GAM,Centro Cultural Jaime Torres Bodet / Zacatenco,"Explanada del Centro Cultural Jaime Torres Bodet, ubicado en Av. Wilfrido Massieu s/n, Col. Nueva Industrial Vallejo, alcaldía Gustavo A. Madero, CP 07738, CDMX",Nueva Industrial Vallejo,19.49630693,-99.13511517,09:00 - 16:00,Sputnik-V
+6,2021-04-02,2021-04-06,139,GAM,"Escuela Secundaria Diurna N° 85 ""República de Francia""","Av. 608 S/N, Pueblo de San Juan de Aragón, Gustavo A. Madero, 07969 Ciudad de México, CDMX",Pueblo de San Juan de Aragón,19.45090853,-99.08128156,09:00 - 16:00,Sputnik-V
+6,2021-04-02,2021-04-06,140,GAM,Arena Ciudad de México,"Av. de las Granjas 800, Santa Barbara, Azcapotzalco, 02230 Ciudad de México, CDMX",Santa Barbara,19.49778924,-99.17468281,09:00 - 16:00,Sputnik-V
+6,2021-04-02,2021-04-06,141,Iztapalapa,Sede de Servicios de Transportes Electricos,"Municipio Libre 402, San Andrés Tetepilco, Iztapalapa, 09440 Ciudad de México, CDMX",San Andrés Tetepilco,19.36809263,-99.13280974,09:00 - 16:00,Sputnik-V
+6,2021-04-02,2021-04-06,142,Iztapalapa,Universidad Autónoma Metropolitana Unidad Iztapalapa,"La Purísima 423, Leyes de Reforma 1ra Secc, Iztapalapa, Ciudad de México, CDMX",Leyes de Reforma,19.36201476539,-99.070944611888,09:00 - 16:00,Sputnik-V
+6,2021-04-02,2021-04-06,143,Iztapalapa,Deportivo Santa Cruz Meyehualco (Calle 71 esquina Av. 6),"Calle 71 esquina Av. 6), Jacarandas. Iztapalapa 09290 Ciudad de México, CDMX",Leyes de Reforma,19.36681146,-99.0594455,09:00 - 16:00,Sputnik-V
+6,2021-04-02,2021-04-06,144,Iztapalapa,Facultad de Estudios Superiores Zaragoza UNAM Campus I,"Av Guelatao 66, Ejército de Oriente Indeco II Issste, Iztapalapa, 09230 Ciudad de México, CDMX",Ejercito de Oriente,19.38484447,-99.03634386,09:00 - 16:00,Sputnik-V
+6,2021-04-02,2021-04-06,145,Iztapalapa,Deportivo Santa Cruz Meyehualco / Campo Baseball,"Eduardo Vasconcelos, Jacarandas. Iztapalapa 09290 Ciudad de México, CDMX",Jacarandas,19.34977041,-99.04808653,09:00 - 16:00,Sputnik-V
+6,2021-04-02,2021-04-06,146,Iztapalapa,"Centro de Estudios Científicos y Tecnológicos N° 7 ""Cuauhtémoc"" IPN / (Vocacional 7)","Ermita Iztapalapa 3241, Sta María Aztahuacan, Iztapalapa, 09570 Ciudad de México, CDMX",Sta María Aztahuacan,19.3450887,-99.02618418,09:00 - 16:00,Sputnik-V
+6,2021-04-02,2021-04-06,147,Iztapalapa,Unidad Habitacional Militar El Vergel,"Av. Canal de Garay 100, Área Federal Fave Sedena, Iztapalapa, 09880 Ciudad de México, CDMX",Área Federal Fave Sedena,19.31396069,-99.08006432,09:00 - 16:00,Sputnik-V
+6,2021-04-02,2021-04-06,148,Iztapalapa,Palacio de los Deportes (Pabellones),"Eje 3 Sur (Añil) 467, Granjas México, Iztacalco, 08400 Ciudad de México, CDMX",Granjas México,19.40575925,-99.09822871,09:00 - 16:00,Sputnik-V
+7,2021-04-12,2021-04-18,79,Azcapotzalco,Arena Ciudad de México,"Av. de las Granjas 800, Santa Barbara, Azcapotzalco, 02230 Ciudad de México, CDMX",Santa Barbara,19.4978651129392,-99.1751012455615,09:00 - 16:00,Pfizer-Biontech
+7,2021-04-12,2021-04-16,129,Cuajimalpa de Morelos,Expo Santa Fe México,"Av Sta Fe 270, Santa Fe, Zedec Sta Fé, Álvaro Obregón, 01210 Ciudad de México, CDMX",Santa Fé,19.36336805,-99.26237597,09:00 - 16:00,AstraZeneca
+7,2021-04-12,2021-04-16,173,Milpa Alta,Deportivo Milpa Alta,Deportivo Milpa Alta. Sinaloa Norte S/N. Barrio Santa Martha. Villa Milpa Alta. CP 12000,Barrio Santa Martha,19.2000606283582,-99.026650535165,09:00 - 16:00,AstraZeneca
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,"insert into Modulo values(null,'Escuela Superior de Educación Física',19.40792513,-99.10046371,null);",',,,,,
+,,,,,"insert into Modulo values(null,'Palacio de los Deportes',19.40289458,-99.09764077,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Bosque de Tláhuac',19.28774575,-99.05204404,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Nuevo Hospital General del ISSSTE',19.27989101,-99.05044155,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Escuela Nacional Preparatoria No. 1 Gabino Barreda UNAM',19.27212039,-99.1213183,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Centro Deportivo Xochimilco',19.25450336,-99.10843636,null);",,,,,,
+,,,,,"insert into Modulo values(null,'SITIO DE CUAUTLA',19.3551,-99.2871,null);",,,,,,
+,,,,,"insert into Modulo values(null,'XOCHIQUETZAL',19.3699,-99.291,null);",,,,,,
+,,,,,"insert into Modulo values(null,'CALMECAC',19.3701,-99.2846,null);",,,,,,
+,,,,,"insert into Modulo values(null,'INVESTIGACION EDUCATIVA',19.3705,-99.2803,null);",,,,,,
+,,,,,"insert into Modulo values(null,'CARLOS MARIA BUSTAMANTE',19.3726,-99.2883,null);",,,,,,
+,,,,,"insert into Modulo values(null,'DR CONRADO MENENDEZ MENA',19.3825,-99.2553,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ESCUELA PRIMARIA MANUAL ACUÑA',19.37025179,-99.28532605,null);",,,,,,
+,,,,,"insert into Modulo values(null,'JOSE RAMÓN MANTEROLA',19.35666692,-99.29822089,null);",,,,,,
+,,,,,"insert into Modulo values(null,'BENITO JUAREZ',19.3285,-99.3306,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ESCUELA SECUNDARIA JOSÉ ANTONIO CARRILLO FLORES N°289',19.34821817,-99.31733734,null);",,,,,,
+,,,,,"insert into Modulo values(null,'JOSE LUIS VIEYRA GONZALEZ',19.3533,-99.296,null);",,,,,,
+,,,,,"insert into Modulo values(null,'KALPILLI',19.3604,-99.297,null);",,,,,,
+,,,,,"insert into Modulo values(null,'MAESTRO JUSTO SIERRA',19.308,-99.3351,null);",,,,,,
+,,,,,"insert into Modulo values(null,'MAESTROS DE MEXICO',19.3425,-99.2824,null);",,,,,,
+,,,,,"insert into Modulo values(null,'VICENTE GUERRERO',19.3429,-99.2804,null);",,,,,,
+,,,,,"insert into Modulo values(null,'NIQOS HEROES',19.3447,-99.3125,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ANTONIO CASTRO LEAL',19.3473,-99.2996,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ESCUELA SECUNDARIA TECNICA 48',19.37564499,-99.28731364,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Acopilco',19.333439,-99.326466,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Cuajimalpa',19.356861,-99.297495,null);",,,,,,
+,,,,,"insert into Modulo values(null,'UMF-UMAA 42 Cuajimalpa',19.3645,-99.2933,null);",,,,,,
+,,,,,"insert into Modulo values(null,'IEMS Plantel Josefa Ortiz de Domínguez',19.361908,-99.285902,null);",,,,,,
+,,,,,"insert into Modulo values(null,'La Navidad',19.3751,-99.2834,null);",,,,,,
+,,,,,"insert into Modulo values(null,'RUBEN DARIO',19.3164,-99.242,null);",,,,,,
+,,,,,"insert into Modulo values(null,'JOSÉ MARÍA VELASCO',19.317,-99.2395,null);",,,,,,
+,,,,,"insert into Modulo values(null,'JOSE GUADALUPE POSADA',19.3203,-99.2404,null);",,,,,,
+,,,,,"insert into Modulo values(null,'PROFRA MA ADELINA FLORES MORALES',19.3251,-99.2496,null);",,,,,,
+,,,,,"insert into Modulo values(null,'LIDICE',19.326,-99.2247,null);",,,,,,
+,,,,,"insert into Modulo values(null,'JOSEFA ORTIZ DE DOMINGUEZ',19.3292,-99.2124,null);",,,,,,
+,,,,,"insert into Modulo values(null,'PROCERES DE LA REVOLUCION',19.3345,-99.2098,null);",,,,,,
+,,,,,"insert into Modulo values(null,'DR EDUARDO LICEAGA',19.3021,-99.2704,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ARQUIMEDES CABALLERO CABALLERO',19.3049,-99.2664,null);",,,,,,
+,,,,,"insert into Modulo values(null,'PROFRA LEONOR LEAQOS NAVARRO',19.3093,-99.2651,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ALFONSO REYES',19.3134,-99.2567,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ENRIQUE RODRIGUEZ CANO',19.2979,-99.2451,null);",,,,,,
+,,,,,"insert into Modulo values(null,'FRANCISCO NICODEMO',19.3052,-99.2381,null);",,,,,,
+,,,,,"insert into Modulo values(null,'MARTÍN LUIS GUZMÁN',19.3009,-99.2573,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ALFREDO E URUCHURTU',19.3064,-99.2477,null);",,,,,,
+,,,,,"insert into Modulo values(null,'JUVENTINO ROSAS',19.3067,-99.2335,null);",,,,,,
+,,,,,"insert into Modulo values(null,'CORONEL NICOLAS ROMERO',19.3067,-99.2499,null);",,,,,,
+,,,,,"insert into Modulo values(null,'LUIS DONALDO COLOSIO MURRIETA',19.3073,-99.2363,null);",,,,,,
+,,,,,"insert into Modulo values(null,'CARLOS DE SIGUENZA Y GONGORA',19.3107,-99.2452,null);",,,,,,
+,,,,,"insert into Modulo values(null,'PROFR RAFAEL HERNANDEZ LOPEZ',19.3122,-99.2546,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ESCUELA PRIMARIA HEROES DE PADIERNA',19.3153,-99.2264,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ITZJAK RABIN',19.3153,-99.249,null);",,,,,,
+,,,,,"insert into Modulo values(null,'DR NABOR CARRILLO FLORES',19.317,-99.2492,null);",,,,,,
+,,,,,"insert into Modulo values(null,'MAESTRO RAFAEL RAMIREZ',19.3179,-99.2291,null);",,,,,,
+,,,,,"insert into Modulo values(null,'REPUBLICA DEL PERU',19.3207,-99.2238,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ESCUELA PRIMARIA XICOTENCATL',19.3132,-99.256,null);",,,,,,
+,,,,,"insert into Modulo values(null,'C.S.T-I SAN NICOLÁS TOTOLAPAN',19.2983,-99.2434,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ESCUELA PRIMARIA PROFR. SIMITRIO RAMIREZ HERNANDEZ',19.3118,-99.2605,null);",,,,,,
+,,,,,"insert into Modulo values(null,'UMF 140 La Teja',19.3042,-99.2485,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ESCUELA PRIMARIA ALFREDO E. URUCHURTU',19.3053,-99.241,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ESCUELA PRIMARIA MAESTROS MEXICANOS',19.3098,-99.2304,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ESCUELA PRIMARIA CUAUHTEMOC',19.3199,-99.2445,null);",,,,,,
+,,,,,"insert into Modulo values(null,'UMF 22 Independecia',19.331,-99.2179,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ESCUELA PRIMARIA AGUSTIN LEGORRETA',19.2187876,-98.99539754,null);",,,,,,
+,,,,,"insert into Modulo values(null,'SIERRA LEONA',19.193,-99.0073,null);",,,,,,
+,,,,,"insert into Modulo values(null,'PRIMARIA PROGRESO CAMPESINO',19.17517536,-99.03423322,null);",,,,,,
+,,,,,"insert into Modulo values(null,'CULTURA AZTECA',19.1879,-99.0216,null);",,,,,,
+,,,,,"insert into Modulo values(null,'JARDIN DE NIÑOS CALNAHUATL',19.19043944,-99.02852908,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ESCUELA SECUNDARIA TECNICA 18',19.1832,-99.0712,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ESCUELA PRIMARIA PINTOR DIEGO RIVERA',19.19250365,-99.08954299,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ESCUELA PRIMARIA BENITO JUAREZ',19.20587658,-99.06915025,null);",,,,,,
+,,,,,"insert into Modulo values(null,'San Salvador Cuauhtenco',19.191734,-99.091828,null);",,,,,,
+,,,,,"insert into Modulo values(null,'San Pablo Oztotepec',19.1874,-99.0731,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Dr. Luis  Erosa León',19.2031,-99.0466,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Escuela Secundaria N°37 EMILIANO ZAPATA',19.188537,-99.024266,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Dr. Gastón Melo',19.22038,-98.99553,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Santa Ana Tlacotenco',19.17293,-98.99455,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Benemérita Escuela Nacional de Maestros',19.4468619868141,-99.1683351833857,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Campo Marte',19.4247637086059,-99.1972820177831,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Arena Ciudad de México',19.4978651129392,-99.1751012455615,null);",,,,,,
+,,,,,"insert into Modulo values(null,'UAM Azcapotzalco',19.5040001259723,-99.1869685452568,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Antiguas instalaciones de la Primera Región Militar (colonia Aviación Civil)',19.4191443530711,-99.0762714602185,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Internado No. 17 de ña Secretaría de Educación Pública Francisco I. Madero',19.4435484358356,-99.1160660602181,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Centro de Estudios Superiores en Ciencias de la Salud (CENCIS-Marina)',19.3198028600395,-99.1171925663255,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Centro de Exposiciones de Ciudad Universitaria',19.31002726,-99.1769417,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Universidad Autónoma Metropolitana (UAM) Xochimilco',19.30435633,-99.10160295,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Escuela Nacional Preparatoria N° 5 ""José Vasconcelos"" UNAM',19.30794538,-99.13416566,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Plantel Otilio Montaño - Tlalpan 2 (Topilejo) del Instituto de Educación Media Superior de la Ciudad de México',19.20238464,-99.14930168,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Six Flags México',19.2958487,-99.21062957,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Universidad La Salle',19.40888893,-99.18086442,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Biblioteca Vasconcelos',19.44750555,-99.15065602,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Escuela Primaria Benito Juárez',19.40972598,-99.15915906,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Estadio Olímpico Universitario',19.33254018,-99.19119064,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Deportivo Plateros',19.36881565,-99.19495267,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Expo Santa Fe México',19.36336805,-99.26237597,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Universidad de la Policía de la CDMX (Acceso 1)',19.33704746,-99.24956968,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Pepsi Center / World Trade Center',19.39504623,-99.17429988,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Alberca Olímpica Francisco Márquez',19.35885138,-99.15370345,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Centro Universitario México',19.38972135,-99.16078623,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Deportivo Hermanos Galeana',19.4734245,-99.07499645,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Ciudad Deportiva Carmen Serdán',19.55311662,-99.14603505,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Escuela Nacional Preparatoria N° 9 ""Pedro de Alba"" UNAM',19.4838658,-99.12771386,null);",,,,,,
+,,,,,"insert into Modulo values(null,'ENCB - Escuela Nacional de Ciencias Biológicas Unidad Zacatenco - IPN',19.49880124,-99.14571374,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Centro Cultural Jaime Torres Bodet / Zacatenco',19.49630693,-99.13511517,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Escuela Secundaria Diurna N° 85 ""República de Francia""',19.45090853,-99.08128156,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Arena Ciudad de México',19.49778924,-99.17468281,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Sede de Servicios de Transportes Electricos',19.36809263,-99.13280974,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Universidad Autónoma Metropolitana Unidad Iztapalapa',19.36201476539,-99.070944611888,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Deportivo Santa Cruz Meyehualco (Calle 71 esquina Av. 6)',19.36681146,-99.0594455,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Facultad de Estudios Superiores Zaragoza UNAM Campus I',19.38484447,-99.03634386,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Deportivo Santa Cruz Meyehualco / Campo Baseball',19.34977041,-99.04808653,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Centro de Estudios Científicos y Tecnológicos N° 7 ""Cuauhtémoc"" IPN / (Vocacional 7)',19.3450887,-99.02618418,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Unidad Habitacional Militar El Vergel',19.31396069,-99.08006432,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Palacio de los Deportes (Pabellones)',19.40575925,-99.09822871,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Arena Ciudad de México',19.4978651129392,-99.1751012455615,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Expo Santa Fe México',19.36336805,-99.26237597,null);",,,,,,
+,,,,,"insert into Modulo values(null,'Deportivo Milpa Alta',19.2000606283582,-99.026650535165,null);",,,,,,
